@@ -30,7 +30,7 @@ This is my personal portfolio website, created to showcase my **projects, skills
 ### 🔧 Installation / Usage
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   https://github.com/Hitesh04codebot/My-Portfolio.git
 
 
 📌 Note
