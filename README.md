@@ -1,36 +1,38 @@
-Description
-This is my personal portfolio website, created to showcase my projects, skills, and experiences. The website includes sections such as an about me, my projects, skills, education, and a contact form.
+# Personal Portfolio Website
 
-Features
-Clean and modern design
+This is my personal portfolio website, created to showcase my **projects, skills, and experiences** as a web developer. It features a clean and modern layout built using **plain HTML and CSS**, with some JavaScript where needed.
 
-About Me section
+## 🌐 Features
 
-Projects showcase with descriptions and links
+- Clean and modern design  
+- **About Me** section  
+- **Projects** showcase with descriptions and links  
+- **Skills** summary  
+- **Education & Experience** details  
+- **Contact Form** (static/non-functional without backend)
 
-Skills summary
+## 📁 Folder Structure
 
-Education and experience details
-
-Contact form (static/non-functional if no backend)
-
-Built using plain HTML, CSS
-
-Getting Started
-Prerequisites
-A web browser (Chrome, Firefox, Edge, etc.)
-
-Installation / Usage
-Download or clone the repository
-git clone https://github.com/your-username/your-portfolio.git
-
-Folder Structure
 /
 ├── index.html
 ├── style.css
 ├── script.js
 ├── images/
-│   └── ... (project images, profile picture, etc.)
+│ └── ... (project images, profile picture, etc.)
 └── README.md
-Note:
-This portfolio website is intended for desktop viewing and does not include responsive/mobile layout features.
+
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+
+### 🔧 Installation / Usage
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
+
+
+📌 Note
+This portfolio is currently designed only for desktop viewing and does not include responsive/mobile layout features.
+
